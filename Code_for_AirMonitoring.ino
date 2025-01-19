@@ -8,8 +8,8 @@
 #define DHT_TYPE DHT11
 
 
-const char* ssid = "Soham";         
-const char* password = "nuas2713";  
+const char* ssid = "*****";         
+const char* password = "******";  
 
 
 DHT dht(DHT_PIN, DHT_TYPE);
